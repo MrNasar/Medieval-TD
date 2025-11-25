@@ -1,0 +1,8 @@
+# Godot-specific
+.import/
+.export/
+
+# C# (if using Mono)
+.mono/
+*.csproj
+*.sln
